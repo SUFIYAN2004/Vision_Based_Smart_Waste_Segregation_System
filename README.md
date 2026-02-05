@@ -28,3 +28,11 @@ It classifies waste into **Organic, Recyclable, and Hazardous** categories using
 
 ---
 
+## ⚠️ Model Availability
+
+The trained model file is not included in this repository due to GitHub file size limitations.
+
+To reproduce or test the model:
+- Open the provided Jupyter Notebook (`.ipynb`) in Google Colab
+- Run all cells to train or load the model
+- Use the prediction cells for image upload or camera testing
